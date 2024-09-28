@@ -14,3 +14,5 @@
 -알파테스터- 마멋이형
 
 # miracle project Personal Access Token : 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
+
+다들 시험공부 열심히하고 계시죠? 믿고 있어요...
